@@ -10,6 +10,10 @@ background-color: #4d0000;
 
 }
 
+.container-img{
+  border-radius:50%
+}
+
 @import "compass/css3";
 
 .flex-container {
